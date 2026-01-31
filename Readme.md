@@ -1,0 +1,1 @@
+Backend for a YouTube-like video streaming platform built using Node.js, Express and Mongoose .
